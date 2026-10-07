@@ -1,0 +1,1 @@
+This project needs a Gradle wrapper (gradlew/gradle-wrapper.jar) for the GitHub Actions workflow. If your repository does not contain it, generate/add the wrapper before running the workflow.
